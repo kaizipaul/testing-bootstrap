@@ -1,0 +1,12 @@
+.borderless li {
+    border: none;
+    padding-right: 0;
+  }
+
+  .lang li {
+    border: none;
+  }
+  
+  .borderless li:first-child {
+    padding-left: 0;
+  }
